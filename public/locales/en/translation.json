@@ -1,0 +1,10 @@
+{
+  "dictionary1": "Tua Pek Kong Dictionary",
+  "dictionary2": "Guan Yin Ma Dictionary",
+  "dictionary3": "4D Dream Dictionary",
+  "enter": "Enter",
+  "home": "Home",
+  "inputPlaceholder": "e.g. 1, 001 or sky",
+  "searchResults": "Search Results",
+  "notifyResults": "Found {{numberOfResults}} results for {{query}}"
+}

@@ -1,0 +1,10 @@
+{
+  "dictionary1": "ภาพพันตัวของลุง",
+  "dictionary2": "เจ้าแม่กวนอิมพันตัว",
+  "dictionary3": "การตีความความฝัน 4 มิติ",
+  "enter": "เข้าสู่",
+  "home": "บ้าน",
+  "inputPlaceholder": "e.g. 1, 001 or sky",
+  "searchResults": "ผลการค้นหา",
+  "notifyResults": "Found {{numberOfResults}} results for {{query}}"
+}

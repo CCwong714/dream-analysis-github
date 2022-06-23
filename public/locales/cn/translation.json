@@ -1,0 +1,10 @@
+{
+  "dictionary1": "大伯公千字图",
+  "dictionary2": "观音千字图",
+  "dictionary3": "万字图",
+  "enter": "进入",
+  "home": "主页",
+  "inputPlaceholder": "例子: 1, 001 或 天上",
+  "searchResults": "搜寻结果",
+  "notifyResults": "搜寻到{{numberOfResults}}条{{query}}的结果"
+}
